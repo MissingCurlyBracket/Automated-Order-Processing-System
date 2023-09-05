@@ -1,3 +1,5 @@
+# !! NOTE: source code is not included as we do not have permission to publish it !! 
+
 # Automated Order Processing System For Real World Clients
 
 Client: Unetiq BV
