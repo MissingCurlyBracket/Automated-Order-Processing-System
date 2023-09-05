@@ -10,8 +10,8 @@ TA: Oskar Lorek
 
 # Description
 The project aims to create an order processing system that when used by a client it will automatically read their uploaded PDFS/Excels and process them into an editable order.
-This stage of the project will focus on parsing and understanding the semi-structured Excel data.
-If time allows, the team will also look into the processing of the PDF type of files.
+This stage of the project will focus on parsing and understanding the semi-structured Excel data using a neural network.
+If time allows, the team will also look into the processing of the PDF type of files, require more applied NLP.
 The project will be developed as a full stack application but it does not have to be a final product, rather a high fidelity prototype.
 The project will be developed for Unetiq BV, which are also our client.
 This project has been created as part of the CSE2000 - Software Project course provided by TU Delft.
